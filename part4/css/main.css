@@ -1,0 +1,23 @@
+div{
+    display: inline;
+}
+
+.ban1{
+      background-color: #FFFF00;
+      padding: 5px; 
+      margin-right: 7px;  
+      text-align: center;   
+}
+
+.ban2{
+      background-color: #ED2251;
+      padding: 5px;
+      margin-right: 7px;
+      text-align: center;
+}	
+
+.ban3{
+      background-color: #FFFF00;
+      padding: 5px; 
+      text-align: center;
+}      
